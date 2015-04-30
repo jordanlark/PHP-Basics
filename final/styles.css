@@ -1,0 +1,125 @@
+body{
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  background-color: #58BDDF;
+}
+h1{
+  color: #58BDDF;
+}
+h2,h3{
+  color: #A62042;
+}
+
+/* *********NAV******* */
+nav{
+  background-image: url(dark_dotted2.png);
+  padding: 2%;
+}
+nav ul li{
+  display: block;
+  float: none;
+}
+nav a{
+  color: #7AED53;
+}
+.nav-items li a:hover{
+  background-color: #7AED53;
+  color: #000;
+  border-radius: 5px;
+}
+p.welcome{
+  color: white;
+  margin-top: 0;
+}
+
+/* ******GENERAL STUFF *********/
+.container{
+  background-color: #FFF;
+}
+a{
+  color: #A62042;
+}
+a:hover{
+  color: #A62042;
+  text-decoration: underline;
+}
+img{
+  padding: 2%;
+}
+article.article-thing{
+  min-height: 280px;
+}
+article.article-thing img{
+  height: 289px;
+}
+.thumbnail-img{
+  width: 100px;
+}
+/*strong{
+  color: #7AED53;
+}*/
+p.search{
+  color: #000;
+}
+.add-btn{
+  background-color: #A62042;;
+  color: #fff;
+  margin: 1%;
+}
+.add-btn:hover{
+  background-color: #fff;
+  color: #A62042;
+  border: solid 1px #A62042;
+}
+/* ********** FORMS ********** */
+form{
+  padding: 2%;
+  width: 100%;
+}
+ .submit{
+  background-color: #7AED53;;
+  color: #fff;
+  maring: 1%;
+}
+ .submit:hover{
+  background-color: #fff;
+  color: #7AED53;
+  border: solid 1px #7AED53;
+}
+form span,form label{
+  color: #A62042;
+}
+.input-group{
+  padding: 2%;
+  width: 100%;
+}
+.well{
+  background-color: #rgba(25, 24, 26, 0.5);
+}
+ textarea{
+  width: 80%;
+  min-height: 150px;
+}
+/* **********TABLET********** */
+
+@media (min-width: 501px){
+  form{
+    padding: 2%;
+    width: 60%;
+  }
+  .nav-items li a:hover{
+    background-color: #7AED53;
+    color: #000;
+    border-radius: 5px;
+  }
+}
+/* **********DESKTOP********** */
+
+@media (min-width: 801px){
+
+}
+
+/*********
+PINK  #A62042
+BLUE  #58BDDF
+GREEN #7AED53
+**********/

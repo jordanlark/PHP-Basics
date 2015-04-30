@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="style.css" >
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<title>Send</title>
+</head>
+
+<body>
+<h1></h1>
+
+<form action="sendMessage.php" method="POST" enctype="multipart/form-data">
+
+<fieldset><legend>Send the Spam</legend>
+<span>Subject<input name="subject" type="text" value="" required/></span>
+
+<span>Message<textarea name="message" rows="8" cols="40" required></textarea></span>
+
+</fieldset>
+
+<input type="submit" value="submit" id="submit"/>
+
+</form>
+
+</body>
+</html>

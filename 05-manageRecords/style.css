@@ -1,0 +1,75 @@
+body{
+/*  max-width: 60%; */
+  font-family: 'Lato', sans-serif;
+  margin: auto;
+/*  background-image: url('images/contemporary_china_2.png'); */
+}
+
+h1{
+  font-size: 2em;
+  padding: 2%;
+  color: #E3FA73;
+  margin-bottom: 0;
+}
+
+.container{
+  width: 70%;
+  background-color: #fff;
+  padding 6%;
+}
+
+form{
+  padding: 5%;
+}
+a{
+  color: #F5AED2;
+}
+.margin-2{
+  margin:2%;
+}
+/*
+fieldset{
+  padding: 1%;
+  margin-top: 1%;
+  border: none;
+}
+
+input{
+  margin: 2%;
+  padding: 2%;
+  margin-left: 0;
+  margin-top: 0;
+  color: #F5AED2; /*blue
+  border: 2px solid #F5AED2;/* pink
+  border-radius: 5px;
+  background-color: #eee;
+}
+input.block{
+  display: block;
+}
+input.inline{
+  display: inline;
+}
+
+legend{
+  font-size: 1.5em;
+  padding: 2%;
+}*span{
+  display: block;
+  padding: 1%;
+}
+
+#small{
+  font-size: 11px;
+  padding: 0;
+  margin: 0;
+}
+
+#submit{
+  margin: 2%;
+  padding: 2%;
+  border: 2px solid #F5AED2;
+  border-radius: 4px;
+  background-color: #F5AED2;
+  color: #eee;
+} */

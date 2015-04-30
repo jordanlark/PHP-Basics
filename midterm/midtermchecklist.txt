@@ -1,0 +1,17 @@
+db - id
+     name
+     area of expertise
+     phone
+     email
+     address
+     paragraph - area of specialization
+     picture
+
+public pages
+ view all employees
+   -details of employee
+ form for email employee page
+
+admin page
+ view all employees
+   -add/delete/update employees

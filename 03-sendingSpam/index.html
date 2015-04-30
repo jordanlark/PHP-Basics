@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="style.css" >
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<title>Newsletter</title>
+</head>
+
+<body>
+<h1></h1>
+
+<a href="makeMessage.html">Link to make messages!</a>
+<form action="saveToDataBase.php" method="POST" enctype="multipart/form-data">
+
+<fieldset><legend>Sign up for our Newsletter!</legend>
+<span>First Name<input name="firstname" type="text" value="" required /></span>
+
+<span>Last Name<input name="lastname" type="text" value="" required /></span>
+
+<span>Email<input name="email" type="email" value="" required /></span>
+
+</fieldset>
+
+<input type="submit" value="Subscribe" id="submit"/>
+
+</form>
+
+</body>
+</html>

@@ -1,0 +1,92 @@
+[select* your-recipient class:form-control include_blank "BOBBIJO KANTER - Director of Program Services|"
+"MICHELLE MADLENA - Director of Finance|jordanlarkin24@gmail.com"
+"JENNIE VUICH - Director of Development and Public Relations|jordanlarkin24@gmail.com"
+"ALISA GRAHAM - Regional Program Manager, North Area|jordanlarkin24@gmail.com"
+"ASHLEE CHATTERTON - Regional Program Manager, North Area|jordanlarkin24@gmail.com"
+"FRANK CROWTHER - Field Service Coordinator, North East Area|jordanlarkin24@gmail.com"
+"CHRIS BRISENO - Public Relations and Program Assistant|jordanlarkin24@gmail.com"
+"JUDY HUT - Outreach and Volunteer Manager|jordanlarkin24@gmail.com"
+"ROSEMARY MCKEAN - Communications and Events Assistant|jordanlarkin24@gmail.com"
+"General Office|jordanlarkin24@gmail.com"]
+
+BOBBIJO KANTER
+  Title = Director of Program Services
+  Email = kanter@sout.org
+
+MICHELLE MADLENA
+  Title = Director of Finance
+  Email = madlena@sout.org
+
+JENNIE VUICH
+  Title = Director of Development and Public Relations
+  Email = vuich@sout.org
+
+ALISA GRAHAM
+  Title = Regional Program Manager, North Area
+  Email = graham@sout.org
+
+ASHLEE CHATTERTON
+  Title = Field Service Coordinator, Metro and Central Areas
+  Email = chatterton@sout.org
+
+FRANK CROWTHER
+  Title = Field Service Coordinator, North East Area
+  Email = crowther@sout.org
+
+CHRIS BRISENO
+  Title = Public Relations and Program Assistant
+  Email = briseno@sout.org
+
+JUDY HUT
+  Title = Outreach and Volunteer Manager
+  Email = hut@sout.org
+
+ROSEMARY MCKEAN
+  Title = Communications and Events Assistant
+  Email = campbell@sout.org
+
+General Office
+  Email = information@sout.org
+
+  {
+  "BOBBIJO": {
+    "Title": "Director of Program Services",
+    "Email": "kanter@sout.org"
+  },
+  "MICHELLE": {
+    "Title": "Director of Finance",
+    "Email": "madlena@sout.org"
+  },
+  "JENNIE": {
+    "Title": "Director of Development and Public Relations",
+    "Email": "vuich@sout.org"
+  },
+  "ALISA": {
+    "Title": "Regional Program Manager, North Area",
+    "Email": "graham@sout.org"
+  },
+  "ASHLEE": {
+    "Title": "Field Service Coordinator, Metro and Central Areas",
+    "Email": "chatterton@sout.org"
+  },
+  "FRANK": {
+    "Title": "Field Service Coordinator, North East Area",
+    "Email": "crowther@sout.org"
+  },
+  "CHRIS":
+    "Title" = "Public Relations and Program Assistant"
+    "Email" = "briseno@sout.org"
+
+  "JUDY": {
+    "Title": "Outreach and Volunteer Manager",
+    "Email": "hut@sout.org"
+  },
+  "ROSEMARY": {
+    "Title": "Communications and Events Assistant",
+    "Email": "campbell@sout.org"
+  },
+  "General": {
+    "Title": ""
+    "Email": "information@sout.org"
+  }
+}

@@ -1,0 +1,15 @@
+.margin-sm{
+  margin: 2%;
+}
+.padding-sm{
+  padding: 2%;
+}
+.delete{
+  margin-right: 10px;
+}
+h1{
+ color: #f0ad4e;/*orange warning*/
+}
+body{
+  font-family: 'Lato';/
+}

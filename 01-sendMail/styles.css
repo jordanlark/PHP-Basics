@@ -1,0 +1,36 @@
+body{
+  max-width: 75%;
+  font-family: 'Lato', sans-serif;
+  margin: auto;
+  background-image: url('az_subtle.png');
+}
+
+h1{
+  font-size: 2em;
+  padding: 2%;
+}
+
+form{
+  color: purple;
+  background-color: #eee;
+}
+
+fieldset{
+  padding: 1%;
+}
+
+input{
+  margin: 1%;
+  margin-left: 0;
+}
+
+legend{
+  font-size: 1.2em;
+}
+
+#submit{
+padding: 1%;
+background-color: purple;
+color: #eee;
+border-radius: 4px;
+}

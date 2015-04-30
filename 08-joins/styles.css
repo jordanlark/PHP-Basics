@@ -1,0 +1,87 @@
+body{
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  background-image: url(dark_dotted2.png);
+}
+nav{
+  width: 78%;
+  margin: auto;
+}
+a{
+  color: #2CFFF2;
+}
+a:hover{
+  text-decoration: none;
+  color: yellow;
+  background-color: #202120 !important;
+  border-radius: 5px;
+}
+nav ul li {
+  float: left;
+}
+.welcome{
+  float: right;
+  padding-top: 2%;
+}
+.container{
+  background-color: white;
+  width: 78%;
+  margin: auto;
+  min-height: 800px;
+}
+.skills-list{
+
+}
+.green{
+  color: #1DE8A2;
+}
+.radio{
+  margin-left: 20px;
+}
+.submit-btn{
+  background-color: #1DE8A2;
+  color: #FFF;
+  margin: 1%;
+}
+.delete{
+  margin-right: 10px;
+}
+h1{
+ color: #; /*purple*/
+ padding: 2%;
+}
+h2{
+ color: #; /*purple*/
+ padding: 2%;
+}
+
+.list-chefs{
+  max-height: 210px;
+  max-width: 500px;
+  border: 5px solid #20FF5E;
+  margin-left: 15px;
+  background-color: #fff;
+}
+
+
+/* **** Form **** */
+label{
+  display: block;
+}
+fieldset{
+  margin-top: 2%;
+  padding-top: 15px;
+}
+/* **** General Styles for site ***** */
+.margin-sm{
+  margin: 2%;
+}
+.padding-sm{
+  padding: 2%;
+}
+.padding-xsm{
+  padding: 1%;
+  padding-bottom: 0;
+}
+.margin-left{
+  margin-left: 0;
+}

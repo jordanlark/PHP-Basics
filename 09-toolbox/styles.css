@@ -1,0 +1,48 @@
+body{
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  background-image: url(sprinkles.png);
+}
+div.container{
+  width: 75%;
+  background-color: #FFF;
+  min-height: 600px;
+  padding: 2%:
+}
+h1.title{
+  color: #FFF;
+  font-size: 2em;
+  margin-left: 35%;
+  margin-top: 0;
+  padding: 1%;
+}
+nav{
+  background-color: pink;
+  min-height: 50px;
+}
+nav ul li a{
+  color: #FFF;
+  margin: auto;
+}
+span.small{
+  font-size: .5em;
+}
+input.inputs, {
+  margin: 2%;
+  width: 55%;
+}
+textarea{
+  width: 55%;
+}
+.bday{
+  width: 100px;
+  display: block;
+}
+.submit-btn{
+  background-color: pink;
+  color: white;
+  border: 1px pink solid;
+}
+.well{
+  background-color: white;
+  border: solid #fff 1px;
+}
